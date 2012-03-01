@@ -1,0 +1,1 @@
+All information is pulled from a database (included) which must first be imported to a MySQL server, and the connection info must be configured before compiling.
